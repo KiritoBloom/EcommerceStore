@@ -4,7 +4,6 @@ import Info from "@/components/info";
 import getProduct from "@/actions/get-product";
 import getProducts from "@/actions/get-products";
 import Container from "@/components/ui/container";
-import GalleryMobile from "../components/gallery-mobile";
 
 export const revalidate = 0;
 
