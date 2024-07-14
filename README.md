@@ -15,6 +15,14 @@ EcomHub Marketplace is an advanced e-commerce platform that combines user-friend
 
 - **Stripe Integration:** Secure and efficient payment processing is facilitated through Stripe, providing users with a reliable transaction experience.
 
+
+## Tech Stack
+
+- **Next.js**
+- **TypeScript**
+- **Tailwind CSS**
+- **Stripe**
+
 ## Getting Started
 
 To start exploring EcomHub Marketplace, follow these steps:
